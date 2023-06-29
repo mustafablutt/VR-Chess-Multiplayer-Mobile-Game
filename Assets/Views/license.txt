@@ -1,0 +1,11 @@
+Model Information:
+* title:	Café Soca
+* source:	https://sketchfab.com/3d-models/cafe-soca-4e2683ed6e83427ba27f2e3267441095
+* author:	Roko.Design (https://sketchfab.com/roko.design)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Café Soca" (https://sketchfab.com/3d-models/cafe-soca-4e2683ed6e83427ba27f2e3267441095) by Roko.Design (https://sketchfab.com/roko.design) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

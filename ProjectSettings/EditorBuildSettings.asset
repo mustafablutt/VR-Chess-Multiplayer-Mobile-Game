@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LOADING.unity
+    guid: c09f4b0b2a9226946aa44a3dd8ffdfa6
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: b85c0446eda462a4c80b2c62fcb3e456
+  - enabled: 1
+    path: Assets/Scenes/VRChess.unity
+    guid: f231efa8838cfcd468164926c7527165
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 53c807745a9620e42b67e7447db2eb61
+  m_configObjects: {}
