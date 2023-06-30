@@ -10,7 +10,7 @@
 
 
 
-TVR Chess is a multiplayer mobile game developed using the Unity engine, paired with Google VR Cardboard and Agora SDK. This game allows users to play chess in a virtual reality environment, enhancing the traditional chess experience with the power of VR and the convenience of mobile platforms.
+VR Chess is a multiplayer mobile game developed using the Unity engine, paired with Google VR Cardboard and Agora SDK. This game allows users to play chess in a virtual reality environment, enhancing the traditional chess experience with the power of VR and the convenience of mobile platforms.
 
 # Overview
 
